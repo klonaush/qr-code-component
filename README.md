@@ -39,7 +39,7 @@ Users should be able to:
 
 ### Built with
 
-- Semantic
+- Semantic HTML5
 - CSS
 - Flexbox
 
