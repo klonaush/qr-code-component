@@ -32,8 +32,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/qr-code-using-css-flexbox-ZT55tELH3J)
-- Live Site URL: [Add live site URL here](https://klonaush.github.io/qr-code-component/)
+- Solution URL: [Solution](https://www.frontendmentor.io/solutions/qr-code-using-css-flexbox-ZT55tELH3J)
+- Live Site URL: [Github page](https://klonaush.github.io/qr-code-component/)
 
 ## My process
 
